@@ -1,7 +1,7 @@
 # Next Billion Technology Invest (NBT)
 
 # Stocks
-## Stocks Data
+## [Stocks Data](stocks/data.md)
 ## Stocks Order
 ## Stocks Portfolio
 ## Stocks Risk
