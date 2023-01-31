@@ -1,1 +1,7 @@
-# nshganesh.github.io
+# Next Billion Technology Invest (NBT)
+
+# Stocks
+
+# Mutual Funds
+
+
